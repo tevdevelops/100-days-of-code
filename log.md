@@ -16,3 +16,35 @@
 
 **Link to work:** [BienVita Site](https://bienvitaus.myshopify.com) Password: WeAreTesting
 
+### Day 2: March 17, 2019
+
+**Today's Progress**: Finished MERN Stack Tutorial by Traversy Media.
+
+**Thoughts:** It was really cool to see my progress and the new updates to the MERN site with user auth. Feel like 1 more MERN Stack tutorial and I will become very comfortable with building my own projects
+
+**Link to work:** [MERN Shopping List](https://murmuring-wildwood-28203.herokuapp.com/)
+
+### Day 3: March 18, 2019
+
+**Today's Progress**: Worked on custom Gutenberg Blocks for a freelance client.
+
+**Thoughts:** I enjoyed getting back to Wordpress for the first time since the major update with Gutenberg blocks. I have a lot to learn to building in Wordpress in 2019
+
+**Link to work:** [WiseGuy](https://shopwiseguy.com)
+
+### Day 4: March 19, 2019
+
+**Today's Progress**: I continued working on BienVita's site with some small responsive edits. Also, I started a website for my friend's company, JOLT.
+
+**Thoughts:** I am building Jolt's new site wit Gatsby JS so that they have a fast site and I can master Gatsby.
+
+**Link to work:** [JOLT](http://wearejolt.com)
+
+### Day 5: March 20, 2019
+
+**Today's Progress**: Only worked on getting an image on the Jolt Nav bar component in Gatsby
+
+**Thoughts:** MY THOUGHTS ARE: IT IS WAY TOO HARD TO USE AN IMAGE IN GATSBY WITH SO MANY OPTIONS!
+
+**Link to work:** [JOLT](http://wearejolt.com)
+
