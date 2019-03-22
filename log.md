@@ -48,3 +48,10 @@
 
 **Link to work:** [JOLT](http://wearejolt.com)
 
+### Day 6: March 21, 2019
+
+**Today's Progress**: Began styling and adding more components to landing page to give more information about the platform.
+
+**Thoughts:** I almost had a lazy day and got nothing done, but thankfully [David Goggins](https://www.youtube.com/watch?v=BvWB7B8tXK8) inspired me to go on a run and then get back to coding today!
+
+**Link to work:** [Bizzy Ideas](https://github.com/tevdevelops/bizzy-ideas)
